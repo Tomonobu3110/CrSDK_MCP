@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "crsdk-document": {
+      "type": "stdio",
+      "command": "python",
+      "args": [
+        "C:\\Python\\MCP\\crsdk_document\\helpguide_mcp.py"
+      ]
+    }
+  }
+}
